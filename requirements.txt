@@ -58,7 +58,7 @@ pyparsing==2.1.10
 pypiwin32==219
 python-dateutil==2.6.0
 pywin32==220
-PyYAML==3.12
+PyYAML==5.4
 queuelib==1.4.2
 redis==2.10.5
 requests==2.13.0
